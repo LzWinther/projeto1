@@ -1,1 +1,1 @@
-<p>cidade gaucha é muito massa </p>
+<p><strong>cidade gaucha é muito massa<strong></p>
