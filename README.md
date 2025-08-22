@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="pt-br">
     
 <head>
@@ -7,15 +7,14 @@
         <link rel="stylesheet" href="style.css"
 </head>
      
-<body>.
-
+<body>
          <h1 style="font-size: 30px;text-align: center; background:  #1a3c69">Sobre a empresa de programação do luiz</h1>
 
-         <p style="font-size: 25px">Localizada no centro de <strong>cidade gaucha br,</strong>com filiais
-    em outros lugares do estado do paraná</p>
+        Localizada no centro de cidade gaucha br,com filiais
+    em outros lugares do estado do paraná
 
-         <p style="font-size: 25px">Nosso objetivo é:<em>expandir nossas redes empresariais há niveis internacionais,
-    para que assim possamos chegar aos quatro cantos do mundo.</em></p>
+         <Nosso objetivo é:expandir nossas redes empresariais há niveis internacionais,
+    para que assim possamos chegar aos quatro cantos do mundo.
 
          <p style="font-size: 25px">Garantindo qualidade de serviço e agilidade no processo, sempre priorizando a satisfação
     do cliente.Visamos o crescimento mundial,com o intuito de sermos destaque em todos os países.</p>  
