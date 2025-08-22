@@ -5,7 +5,7 @@
         <title> de programação do luiz</title>
     </head>
      <body>
-         <h1 style="font-size: 30px;text-align: center;">Sobre a empresa de programação do luiz</h1>
+         <h1 style="font-size: 30px;text-align: center;background #cccccc">Sobre a empresa de programação do luiz</h1>
 
          <p style="font-size: 25px;text-align: center;">Localizada no centro de <strong>cidade gaucha br,</strong>com filiais,em outros lugares do estado do paraná</p>
 
