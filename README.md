@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
     
 <head>
@@ -7,7 +7,8 @@
         <link rel="stylesheet" href="style.css"
 </head>
      
-<body>
+<body>.
+
          <h1 style="font-size: 30px;text-align: center; background:  #1a3c69">Sobre a empresa de programação do luiz</h1>
 
          <p style="font-size: 25px">Localizada no centro de <strong>cidade gaucha br,</strong>com filiais
